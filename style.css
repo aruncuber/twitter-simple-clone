@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+}
+.twitter-form,.loading{
+    width:50%;
+    margin:0 auto;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+}
+
+
+.loading{
+    text-align: center;    
+}
